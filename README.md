@@ -1,4 +1,4 @@
-# Web Security Lab
+# Wulnerable Web App Security Lab
 
 A hands-on cybersecurity lab that demonstrates common web application vulnerabilities and their secure mitigations.
 
